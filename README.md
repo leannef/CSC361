@@ -1,4 +1,4 @@
-# CSC361_Computer Communication and Networks
+# CSC361: Computer Communication and Networks
 ##  p1
 Simple Web Server following the Hyper Text Transfer Protocol (HTTP) 
 ## p2 : Reliable Datagram Protocol (RDP)
